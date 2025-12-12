@@ -284,7 +284,7 @@ QUALITY WORK ↓
 }
 
 .quality__img {
-    width: 50%;
+    width: 75%;
 }
 
 .section__tag{
@@ -313,6 +313,7 @@ QUALITY WORK ↓
 .btn{
     background-color: #6415ff;
     padding: 12px 32px;
+    margin-top: 20px;
     border: none;
     border-radius: 500px;
     font-size: 14px;
@@ -332,6 +333,11 @@ STEPS ↓
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.steps__description {
+    padding: 32px 0;
+    padding-left: 64px;
 }
 
 
