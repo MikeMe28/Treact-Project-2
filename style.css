@@ -340,6 +340,29 @@ STEPS ↓
     padding-left: 64px;
 }
 
+.section__title {
+    font-size: 48px;
+    font-weight: 900;
+    color: rgb(36,62,99);
+    line-height: 1.5;
+    margin: 16px 0;
+    letter-spacing: 0.025em;
+}
+
+.step__number {
+    color: #cbd5e0;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 1;
+}
+
+.step__description {
+    display: flex;
+    flex-direction: column;
+    margin-left: 24px;
+    max-width: 320px;
+}
+
 
 /* 
 
