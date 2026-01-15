@@ -409,6 +409,12 @@ VALUES ↓
     letter-spacing: 0.025em;
 }
 
+.values__title--wrapper {
+    
+}
+
+
+
 .values__para {
     font-size: 18px;
     font-weight: 500;
@@ -427,6 +433,7 @@ VALUES ↓
 
 .values__title{
     display: flex;
+    flex-direction: column;
     align-items: center;
 }
 
